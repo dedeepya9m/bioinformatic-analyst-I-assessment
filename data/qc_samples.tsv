@@ -1,0 +1,7 @@
+sample_id	total_reads	mapped_reads	duplicate_rate
+S001	1000000	920000	0.12
+S002	800000	480000	0.35
+S003	0	0	0
+S004	1000	800	0.3
+S005	1000	799	0.31
+S006	1000	950	0.31
